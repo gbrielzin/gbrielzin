@@ -2,7 +2,7 @@
 
 `Data · Analytics · Software`
 
-**Systems Analysis and Development** student from Serra, Brazil. I build products with data and I like finding what the numbers are hiding. Right now I'm building [**ENEM GI**](https://github.com/gbrielzin/estudos_enem), a study platform powered by official Brazilian exam data (INEP) with real users, and I'm looking for a **data internship**.
+**Systems Analysis and Development** student (Estácio) from Serra, Brazil. I build products with data and I like finding what the numbers are hiding. Right now I'm building [**ENEM GI**](https://github.com/gbrielzin/estudos_enem), a study platform powered by official Brazilian exam data (INEP) with real users, and I'm looking for a **data internship**.
 
 ```
 SQLite (app)  →  SQL Server (on-premise)  →  Snowflake (cloud)  →  Power BI
@@ -30,6 +30,15 @@ SQLite (app)  →  SQL Server (on-premise)  →  Snowflake (cloud)  →  Power B
 | [**OLX Price Monitor**](https://github.com/gbrielzin/olx-monitor-intelligence) | Automated listing collection with Python + SQLite; 20k+ duplicated rows → fewer than 300 distinct listings; iPhones with battery below 80% sell for 12.5% less |
 | [**Global GDP**](https://github.com/gbrielzin/analise_pib_mundial_sql_pb) | ETL in PostgreSQL and a Power BI dashboard with DAX |
 | [**SQL Expense Tracker**](https://github.com/gbrielzin/controle_financeiro_sql) | PostgreSQL database of my own monthly expenses by category, with SQL queries to see where the money goes |
+
+---
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="Contribution graph for the last year" src="assets/contributions-light.svg">
+</picture>
 
 ---
 
