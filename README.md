@@ -2,7 +2,7 @@
 
 `Data · Analytics · Software`
 
-**Systems Analysis and Development** student (Estácio) from Serra, Brazil. I build products with data and I like finding what the numbers are hiding. Right now I'm building [**ENEM GI**](https://github.com/gbrielzin/estudos_enem), a study platform powered by official Brazilian exam data (INEP) with real users, and I'm looking for a **data internship**.
+**Systems Analysis and Development** student from Serra, Brazil. I build products with data and I like finding what the numbers are hiding. Right now I'm building [**ENEM GI**](https://github.com/gbrielzin/estudos_enem), a study platform powered by official Brazilian exam data (INEP) with real users, and I'm looking for a **data internship**.
 
 ```
 SQLite (app)  →  SQL Server (on-premise)  →  Snowflake (cloud)  →  Power BI
