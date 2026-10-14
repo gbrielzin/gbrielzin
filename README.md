@@ -8,6 +8,10 @@
 SQLite (app)  →  SQL Server (on-premise)  →  Snowflake (cloud)  →  Power BI
 ```
 
+[![ENEM GI study dashboard in Power BI, built on Snowflake views](assets/painel_enem_gi.png)](https://github.com/gbrielzin/estudos_enem#plataforma-de-dados)
+
+<sub>Power BI dashboard on Snowflake views. Finding: my 57.6% accuracy was inflated by easier practice questions; on official questions with IRT parameters it is 53.9%.</sub>
+
 ---
 
 ### Tools
